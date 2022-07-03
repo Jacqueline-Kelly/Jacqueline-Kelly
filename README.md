@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacqueline-Kelly
-- 👀 I’m interested in data engineering and full-stack
+- 👀 I’m interested in data engineering and full-stack development
 - 🌱 I’m currently learning AWS products, react, and psql
 - 💞️ I’m looking to collaborate on projects that focus on communicating data
 - 📫 How to reach me ... best by email : jacqueline.kelly.2016@gmail.com, also on LinkedIn as Jacqueline Kelly
