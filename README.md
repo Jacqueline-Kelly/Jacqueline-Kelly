@@ -1,4 +1,4 @@
-# Chemical Engineer interested in data and full-stack💡 
+# Software Engineer passionate about data and full-stack apps💡 
 - 👋 Hi, I’m @Jacqueline-Kelly
 - 👀 I’m interested in data engineering and full-stack development
 - 🌱 I’m currently learning Node & MongoDB 
