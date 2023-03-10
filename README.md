@@ -1,7 +1,7 @@
 # Software Engineer passionate about data and full-stack apps💡 
 - 👋 Hi, I’m @Jacqueline-Kelly
 - 👀 I’m interested in data engineering and full-stack development
-- 🌱 I’m currently learning Node & MongoDB 
+- 🌱 I’m currently learning JQuery & firebase
 - 💞️ I’m looking to collaborate on projects that focus on communicating data
 - 📫 How to reach me ... best by email : jacqueline.kelly.2016@gmail.com, also on [LinkedIn](https://www.linkedin.com/in/jacqueline-kelly-2021tyui/)
 
