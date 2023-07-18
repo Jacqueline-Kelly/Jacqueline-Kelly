@@ -15,9 +15,6 @@
 **Databases:**<br/>
 [![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)]()[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
 
-##
-## What I'm working on right now🖥️...
-An app for companies to store and track invoices from their employees. The UI allows a user to upload receipts and then extracts the total amount from them using py-tesseract. This app uses a firebase database to store user information as well as invoice information.
 
 
 ##
