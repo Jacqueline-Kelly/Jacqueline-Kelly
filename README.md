@@ -15,12 +15,6 @@
 **Databases:**<br/>
 [![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)]()[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
 
-
-
-##
-## My goals for 2023 👩‍💻
-- **Get hired** full-time as a software developer or in a data X software position!
-
 <!---
 Jacqueline-Kelly/Jacqueline-Kelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
