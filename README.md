@@ -3,7 +3,7 @@
 - 👀 I’m interested in data engineering and full-stack development
 - 🌱 I’m currently learning kubernetes and trame
 - 💞️ I’m looking to collaborate on projects that focus on communicating data
-- 📫 How to reach me ... best by email : jacqueline.kelly.2016@gmail.com, also on [LinkedIn](https://www.linkedin.com/in/jacqueline-kelly-2021tyui/)
+- 📫 How to reach me ... best by email : jgkelly1423@gmail.com, also on [LinkedIn](https://www.linkedin.com/in/jacquelinekelly1423/)
 
 ### 📂 My Stack
 **Languages:** <br/>
