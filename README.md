@@ -1,7 +1,7 @@
 # Software Engineer passionate about data and full-stack apps💡 
 - 👋 Hi, I’m @Jacqueline-Kelly
 - 👀 I’m interested in data engineering and full-stack development
-- 🌱 I’m currently learning kubernetes and trame
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on projects that focus on communicating data
 - 📫 How to reach me ... best by email : jgkelly1423@gmail.com, also on [LinkedIn](https://www.linkedin.com/in/jacquelinekelly1423/)
 
