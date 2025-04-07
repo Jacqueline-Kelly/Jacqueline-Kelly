@@ -1,4 +1,4 @@
-# Software Engineer passionate about communicating developing applications that tell stories through data💡 
+# Software Engineer passionate about developing applications that tell stories through data💡 
 - 👋 Hi, I’m @Jacqueline-Kelly
 - 👀 I’m interested in data engineering and full-stack development
 - 🌱 I’m currently learning kubernetes
